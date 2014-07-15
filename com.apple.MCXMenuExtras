@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>TimeMachine.menu</key>
+		<dict>
+			<key>state</key>
+			<string>always</string>
+			<key>value</key>
+			<false/>
+		</dict>
+		<key>AirPort.menu</key>
+		<dict>
+			<key>state</key>
+			<string>often</string>
+			<key>value</key>
+			<false/>
+		</dict>
+		<key>Bluetooth.menu</key>
+		<dict>
+			<key>state</key>
+			<string>often</string>
+			<key>value</key>
+			<false/>
+		</dict>
+		<key>Eject.menu</key>
+		<dict>
+			<key>state</key>
+			<string>often</string>
+			<key>value</key>
+			<true/>
+		</dict>
+		<key>Volume.menu</key>
+		<dict>
+			<key>state</key>
+			<string>often</string>
+			<key>value</key>
+			<false/>
+		</dict>
+	</dict>
+</plist>
